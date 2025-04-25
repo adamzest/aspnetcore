@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ZestTechnology/75172b4e-4a7f-40bf-bbf7-98967ccc36ed/03b7f832-3f76-43b6-a396-47302b8e8080/_apis/work/boardbadge/6c03a7b1-f074-41ca-947f-70dd1aa0b4ce)](https://dev.azure.com/ZestTechnology/75172b4e-4a7f-40bf-bbf7-98967ccc36ed/_boards/board/t/03b7f832-3f76-43b6-a396-47302b8e8080/Microsoft.RequirementCategory)
 ASP.NET Core
 ============
 
